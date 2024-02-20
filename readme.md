@@ -5,7 +5,7 @@
 <div align="center">
  
 
-  <h3 align="center">Text To Audio</h3>
+  <h3 align="center">Image To Audio Story</h3>
 
   <p align="center">
     An awesome project to kickstart your MachineLearning Journey
