@@ -72,6 +72,11 @@ OPENAI token : ( https://platform.openai.com/api-keys)
    HUGGINGFACEHUB_API_TOKEN=ENTER YOUR API
    OPENAI_API_KEY=ENTER YOUR API
    ```
+4. Start the application
+   ```py
+   streamlit run app.py
+   
+   ```
 
 
 
